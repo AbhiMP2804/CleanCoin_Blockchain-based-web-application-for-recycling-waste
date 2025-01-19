@@ -25,6 +25,7 @@ Scalability: Managed over 1,000 user accounts, ensuring secure and efficient han
 Crowdfunding and Donations: Integrated payment gateways to facilitate crowdfunding and donations, boosting funding for recycling initiatives by 25%.
 
 **5) Impact:**
+
 By integrating blockchain technology with web development best practices, this project achieved a remarkable 40% improvement in operational efficiency. The secure transaction system and enhanced user interface have led to increased trust and satisfaction among users, driving the success of the recycling initiatives.
 
 This project not only demonstrates the potential of blockchain in enhancing environmental sustainability efforts but also showcases the effective use of modern web technologies to solve real-world problems.
